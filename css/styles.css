@@ -38,7 +38,7 @@ p {
   color: hsl(228, 45%, 44%);
 } */
 
-@media only screen and (min-width: 350px) and (max-width: 480px) {
+@media only screen and (min-width: 300px) and (max-width: 600px) {
   /* h3 {
     color: hsl(218, 44%, 22%);
     width: 90%;
